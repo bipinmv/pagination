@@ -1,0 +1,16 @@
+.page-number {
+  padding: 0.3rem 0.5rem;
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+
+.page-number:hover,
+.page-number-active {
+  background-image: linear-gradient(to bottom left, white, grey);
+}
+
+.size-per-page {
+  margin-top: 2rem;
+}
