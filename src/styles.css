@@ -9,6 +9,7 @@
 .page-number:hover,
 .page-number-active {
   background-image: linear-gradient(to bottom left, white, grey);
+  cursor: pointer;
 }
 
 .size-per-page {
